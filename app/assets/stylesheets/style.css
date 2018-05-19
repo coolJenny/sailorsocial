@@ -561,7 +561,7 @@ header ul.nav li ul li.dropdown-submenu li a {
 	padding:0;
 }
 #featured.bg {
-	background: url(/assets/dummies/feat-bg.jpg) no-repeat top center;
+	background: url(/assets/images/dummies/feat-bg.jpg) no-repeat top center;
 }
 
 /* ===================================
@@ -663,7 +663,7 @@ section.callaction {
 }
 
 #parallax1{	
-	background-image: url(/assets/parallax/1.jpg);
+	background-image: url(/assets/images/parallax/1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     display:block;
@@ -2518,34 +2518,34 @@ a.btn.btn-wide {
 }
 
 .bgr .bg.bg1 {
-	background: url(/assets/bodybg/bg1.png) repeat left top;
+	background: url(/assets/images/bodybg/bg1.png) repeat left top;
 }	
 .bgr .bg.bg2 {
-	background: url(/assets/bodybg/bg2.png) repeat left top;
+	background: url(/assets/images/bodybg/bg2.png) repeat left top;
 }	
 .bgr .bg.bg3 {
-	background: url(/assets/bodybg/bg3.jpg) repeat left top;
+	background: url(/assets/images/bodybg/bg3.jpg) repeat left top;
 }	
 .bgr .bg.bg4 {
-	background: url(/assets/bodybg/bg4.png) repeat left top;
+	background: url(/assets/images/bodybg/bg4.png) repeat left top;
 }	
 .bgr .bg.bg5 {
-	background: url(/assets/bodybg/bg5.png) repeat left top;
+	background: url(/assets/images/bodybg/bg5.png) repeat left top;
 }	
 .bgr .bg.bg6 {
-	background: url(/assets/bodybg/bg6.png) repeat left top;
+	background: url(/assets/images/bodybg/bg6.png) repeat left top;
 }	
 .bgr .bg.bg7 {
-	background: url(/assets/bodybg/bg7.png) repeat left top;
+	background: url(/assets/images/bodybg/bg7.png) repeat left top;
 }	
 .bgr .bg.bg8 {
-	background: url(/assets/bodybg/bg8.jpg) repeat left top;
+	background: url(/assets/images/bodybg/bg8.jpg) repeat left top;
 }	
 .bgr .bg.bg9 {
-	background: url(/assets/bodybg/bg9.png) repeat left top;
+	background: url(/assets/images/bodybg/bg9.png) repeat left top;
 }	
 .bgr .bg.bg10 {
-	background: url(/assets/bodybg/bg10.png) repeat left top;
+	background: url(/assets/images/bodybg/bg10.png) repeat left top;
 }	
 
 #accent_color{
