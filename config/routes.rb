@@ -1,13 +1,13 @@
 Rails.application.routes.draw do
 
+  devise_for :users
   resources :blogposts
-  resources :users
 
   root 'static_pages#home'
 
   get '/help', to: 'static_pages#help'
-  get '/signup', to: 'users#new'
-  get '/login', to: 'users#login' 
+  # get '/signup', to: 'users#new'
+  # get '/login', to: 'users#login' 
   
 
   
