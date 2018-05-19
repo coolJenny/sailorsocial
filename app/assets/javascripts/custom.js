@@ -289,4 +289,11 @@ $(function () {
 
     });
 
+    // magic scroll
+    $(".about-section-button").click(function(e){
+      e.preventDefault();
+      $("html, body").animate({scrollTop: $("#about-section-section").offset().top}, 1000);
+      return false;
+    });
+
 });
